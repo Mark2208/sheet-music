@@ -10,17 +10,27 @@
     \new Staff { 
       \clef "treble" 
       \key d \major
-        c2 a4 r8 c64 b a g f e d c b2 a'8 b d e~ e1 r1 c, 
+        cis2 a4 r8 cis64 b a g fis e d cis b2 a'8 b d e~ e1 r1 r r r2 
+        { r8 e16 cis a b e, a gis} {fis e} fis8 r2 r16 e a d, cis1%Intro
 
-        }
+
+    }
     \new Staff { 
         \clef "treble"
         \key d \major 
-        <b d fis b>2 %Bm7
+        <b, d fis a>2 %Bm7
         <g b d fis> %GM7
+        <c e g b>1~ %CM7
         <c e g b>1 %CM7
         r
-                }
+
+        \clef "bass"
+        b,,8 f' {a16 d8} e~ e2
+        b,8 f'  {a16 d8} e~ e2
+        b,8 f'  {a16 d8} e~ e2
+        b,8 f'  {a16 d8} e~ e2
+        b,8 f'  {a16 d8} e~ e2
+        }
   >>
      
   }
