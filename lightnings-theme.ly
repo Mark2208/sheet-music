@@ -50,10 +50,10 @@
         e,8 e'  {fis16 g8} a~ a4 r8. % Switch E
         e,8 e'  {fis16 g8} a~ a4 r8.
         e,8 e'  {fis16 g8} a~ a4 r8.
-        <b,, d fis a>4 <d fis a>4 <d fis a>4 <d fis a>4 %Bm7
+        e,8 e'  {fis16 g8} a~ a4 r8.
         e,8 a  {b16 c8} d~ d4 r8.
         e,8 a  {b16 c8} d~ d4 r8.
-        <g b d fis>4 <g b d fis>4 <g b d fis>4 <g b d fis>4 %GM7
+        <g, b d fis>4 <g b d fis>4 <g b d fis>4 <g b d fis>4 %GM7
         <e g b d>4 <e g b d>4 <e g b d>4 <e g b d>4 %Em7
         <e gis b>4 <e gis b>4 <e gis b>4 <e gis b>4 <e gis b>1%E
         }
