@@ -17,8 +17,8 @@
         <g, b>2 <a cis>4 d
         f b, r8 e a g %17
         <d f>2 b4 e %18
-        b' e, r8 a d c b2 a4 g4 fis4 fis r8 e16 fis g e g e
-        fis2 r8 e16 fis g e g e
+        b' e, r8 a d c b2 a4 g4 fis4 fis r8 e16 fis g a g e
+        fis2 r8 e16 fis g a g e fis2 b fis1
     }
     \new Staff { 
         \clef "treble"
